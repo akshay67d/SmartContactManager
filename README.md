@@ -1,3 +1,3 @@
 # SmartContactManager
 
-Smart contact manah=ger
+Smart contact manager
