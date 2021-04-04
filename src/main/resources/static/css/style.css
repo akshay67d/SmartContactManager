@@ -43,6 +43,7 @@ body{
   height:100vh;
   position:fixed;
   padding-top:20px;
+  
 
  }
  .content{
@@ -56,6 +57,8 @@ body{
   height:100%;
   position:fixed;
   padding-top:45px;
+  
+  z-index: 9999999999999999999999999999999;
   
 
 }
